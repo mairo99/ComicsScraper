@@ -1,0 +1,1 @@
+See script võtab veebilehelt https://www.washingtonpost.com/entertainment/comics/blondie 10 viimast koomiksit ja väljastab nende aadressid ja pealkirja.
