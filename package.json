@@ -1,0 +1,18 @@
+{
+  "name": "comicsscraper",
+  "version": "1.0.0",
+  "description": "See script võtab veebilehelt https://www.washingtonpost.com/entertainment/comics/blondie 10 viimast koomiksit ja väljastab nende aadressid ja pealkirja.",
+  "main": "comicscraper.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "request": "^2.88.2"
+  }
+}
